@@ -19,12 +19,17 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
   *Applying deep learning and computer vision techniques for detailed land cover classification, essential for environmental monitoring and resource management.*
 
 
-### 🔭 Current Projects
-- Exploring machine learning models for **multispectral and SAR data fusion** in ecosystem monitoring.
-- Developing techniques for **weak supervision learning** in high-resolution land cover mapping.
-- Applying **geospatial AI** to enhance flood and stormwater management systems.
+## 🔭 Current Projects
 
----
+- 🌍 **Exploring Machine Learning Models for Multispectral and SAR Data Fusion**  
+   *Focusing on ecosystem monitoring by integrating multispectral and SAR data to derive accurate environmental insights.*
+
+- 🛰️ **Developing Techniques for Weak Supervision Learning in High-Resolution Land Cover Mapping**  
+   *Advancing weak supervision approaches to improve land cover classification accuracy, especially for high-resolution satellite imagery.*
+
+- 🌊 **Applying Geospatial AI to Enhance Flood and Stormwater Management Systems**  
+   *Using geospatial data and AI to optimize flood prediction and stormwater management, supporting resilient urban infrastructure.*
+
 
 ### 📫 Let's Connect
 - **Email**: [aiboaz1896@gmail.com](mailto:aiboaz1896@gmail.com)
