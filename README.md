@@ -35,10 +35,16 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 - **Email**: [aiboaz1896@gmail.com](mailto:aiboaz1896@gmail.com)
 - **LinkedIn**: [linkedin.com/in/boaz-mwubahimana](https://www.linkedin.com/in/boaz-mwubahimana/)
 
-### 💬 Feel free to ask me about
-- Remote sensing applications in environmental monitoring
-- AI techniques in Earth observation and ecosystem modeling
-- Data processing techniques for large-scale geospatial datasets
+## 💬 Feel free to ask me about
+
+- 🌍 **Remote Sensing Applications in Environmental Monitoring**  
+   *Expertise in leveraging satellite and aerial data for environmental insights, from land cover classification to climate impact assessments.*
+
+- 🤖 **AI Techniques in Earth Observation and Ecosystem Modeling**  
+   *Deep knowledge of machine learning and deep learning models tailored for Earth observation, focusing on enhancing ecosystem understanding.*
+
+- 📊 **Data Processing Techniques for Large-Scale Geospatial Datasets**  
+   *Proficient in handling and optimizing large geospatial datasets using advanced tools like Xarray and PyTorch for scalable analysis.*
 
 ### ⚡ Fun fact
 I'm constantly learning new ways to apply AI in geospatial research and love experimenting with emerging techniques to push the boundaries of ecological data analysis.
