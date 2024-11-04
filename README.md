@@ -4,13 +4,20 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 ---
 
-### 🌍 Areas of Research and Interest
+### 🌍 Areas of Research and Interest(Specialized Skills)
 
-- **Snowpack Properties Mapping**: Leveraging microwave remote sensing to analyze and map snowpack characteristics, focusing on northern regions where accurate snowpack data is crucial for environmental monitoring and climate models.
-- **Crop Phenological Mapping**: Using advanced machine learning techniques to monitor and analyze crop growth cycles, aiding in sustainable agriculture practices and food security.
-- **Land Cover Mapping**: Developing detailed land cover maps with high-resolution remote sensing data to track environmental changes, support conservation, and inform policy decisions.
+- ❄️ **Snowpack Properties Mapping**  
+  ![Snowpack Mapping](https://img.shields.io/badge/Snowpack%20Mapping-007ACC?style=for-the-badge&logo=snowflake&logoColor=white)  
+  *Leveraging microwave remote sensing to analyze and map snowpack characteristics, focusing on northern regions where accurate snowpack data is crucial for environmental monitoring and climate models.*
 
----
+- 🌾 **Crop Phenological Mapping**  
+  ![Crop Phenology](https://img.shields.io/badge/Crop%20Phenology%20Mapping-34A853?style=for-the-badge&logo=leaf&logoColor=white)  
+  *Using advanced machine learning techniques to monitor and analyze crop growth cycles, aiding in sustainable agriculture practices and food security.*
+
+- 🗺️ **Land Cover Mapping**  
+  ![Land Cover Mapping](https://img.shields.io/badge/Land%20Cover%20Mapping-FF5722?style=for-the-badge&logo=map&logoColor=white)  
+  *Applying deep learning and computer vision techniques for detailed land cover classification, essential for environmental monitoring and resource management.*
+
 
 ### 🔭 Current Projects
 - Exploring machine learning models for **multispectral and SAR data fusion** in ecosystem monitoring.
