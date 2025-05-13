@@ -4,55 +4,64 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 ---
 
-### 🌍 Areas of Research and Interest(Specialized Skills)
-- 🗺️ **Agriculture optimization from multimodalities**  
-  ![Development of Agriculture management systems with Machine learning](https://img.shields.io/badge/ Agriculture%20Management%20practive-with-machine-learning-from-laboratory-to-remote-sensing-intelligence-FF5722?style=for-the-badge&logo=map&logoColor=white)  
-  *Applying deep learning and computer vision techniques for detailed crop practice management frequent importance from environment, landscape to climate or local weather influences.*
+### 🌍 Areas of Research and Interest (Specialized Skills)
 
+- 🗺️ **Agriculture Optimization from Multimodalities**  
+  ![Agriculture Management](https://img.shields.io/badge/Agriculture%20Management%20Practice--with--machine--learning--from--lab--to--remote--sensing--intelligence-FF5722?style=for-the-badge&logo=map&logoColor=white)  
+  *Applying deep learning and computer vision techniques for detailed crop practice management with attention to environmental, landscape, climate, and local weather influences.*
 
 - ❄️ **Snowpack Properties Mapping**  
   ![Snowpack Mapping](https://img.shields.io/badge/Snowpack%20Mapping-007ACC?style=for-the-badge&logo=snowflake&logoColor=white)  
-  *Leveraging microwave remote sensing to analyze and map snowpack characteristics, focusing on northern regions where accurate snowpack data is crucial for environmental monitoring and climate models.*
+  *Leveraging microwave remote sensing to analyze and map snowpack characteristics, especially in northern regions where accurate data is critical for environmental monitoring and climate modeling.*
 
 - 🌾 **Crop Phenological Mapping**  
   ![Crop Phenology](https://img.shields.io/badge/Crop%20Phenology%20Mapping-34A853?style=for-the-badge&logo=leaf&logoColor=white)  
-  *Using advanced machine learning techniques to monitor and analyze crop growth cycles, aiding in sustainable agriculture practices and food security.*
+  *Using advanced ML techniques to monitor and analyze crop growth cycles, supporting sustainable agriculture and food security.*
 
 - 🗺️ **Land Cover Mapping**  
   ![Land Cover Mapping](https://img.shields.io/badge/Land%20Cover%20Mapping-FF5722?style=for-the-badge&logo=map&logoColor=white)  
-  *Applying deep learning and computer vision techniques for detailed land cover classification, essential for environmental monitoring and resource management.*
+  *Utilizing deep learning and computer vision for detailed land cover classification—vital for environmental monitoring and resource management.*
 
+---
 
 ## 🔭 Current Projects
 
-- 🌍 **Exploring Machine Learning Models for Multispectral and SAR Data Fusion**  
-   *Focusing on ecosystem monitoring by integrating multispectral and SAR data to derive accurate environmental insights.*
+- 🌍 **Exploring ML Models for Multispectral and SAR Data Fusion**  
+   *Focused on ecosystem monitoring by integrating multispectral and SAR data for accurate environmental insights.*
 
-- 🛰️ **Developing Techniques for Weak Supervision Learning in High-Resolution Land Cover Mapping**  
-   *Advancing weak supervision approaches to improve land cover classification accuracy, especially for high-resolution satellite imagery.*
+- 🛰️ **Weak Supervision Learning for High-Resolution Land Cover Mapping**  
+   *Developing robust weak supervision techniques to enhance classification accuracy on high-res satellite imagery.*
 
-- 🌊 **Applying Geospatial AI to Enhance Flood and Stormwater Management Systems**  
-   *Using geospatial data and AI to optimize flood prediction and stormwater management, supporting resilient urban infrastructure.*
+- 🌊 **Geospatial AI for Flood and Stormwater Management**  
+   *Optimizing flood prediction and stormwater systems using geospatial data and AI to build climate-resilient urban infrastructure.*
 
+---
 
 ### 📫 Let's Connect
-- **Email**: [aiboaz1896@gmail.com](mailto:aiboaz1896@gmail.com)
-- **LinkedIn**: [linkedin.com/in/boaz-mwubahimana](https://www.linkedin.com/in/boaz-mwubahimana/)
 
-## 💬 Feel free to ask me about
+- **Email**: [aiboaz1896@gmail.com](mailto:aiboaz1896@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/boaz-mwubahimana](https://www.linkedin.com/in/boaz-mwubahimana/)  
+- **Google Scholar**: [scholar.google.com/citations?user=JvSqzysAAAAJ&hl=en](https://scholar.google.com/citations?user=JvSqzysAAAAJ&hl=en)
+
+---
+
+## 💬 Ask Me About
 
 - 🌍 **Remote Sensing Applications in Environmental Monitoring**  
-   *Expertise in leveraging satellite and aerial data for environmental insights, from land cover classification to climate impact assessments.*
+   *Skilled in satellite and drone image analytics for land cover classification and climate impact studies.*
 
-- 🤖 **AI Techniques in Earth Observation and Ecosystem Modeling**  
-   *Deep knowledge of machine learning and deep learning models tailored for Earth observation, focusing on enhancing ecosystem understanding.*
+- 🤖 **AI Techniques in Earth Observation & Ecosystem Modeling**  
+   *Experienced in machine/deep learning for ecological and geospatial insights.*
 
-- 📊 **Data Processing Techniques for Large-Scale Geospatial Datasets**  
-   *Proficient in handling and optimizing large geospatial datasets using advanced tools like Xarray and PyTorch for scalable analysis.*
+- 📊 **Processing Large-Scale Geospatial Datasets**  
+   *Advanced knowledge in scalable data processing with Xarray, PyTorch, and geospatial libraries.*
 
-### ⚡ Fun fact
-I'm constantly learning new ways to apply AI in geospatial research and love experimenting with emerging techniques to push the boundaries of ecological data analysis.
+---
+
+### ⚡ Fun Fact  
+I'm always learning new ways to use AI in geospatial research and love pushing the limits of ecological data analysis.
 
 ---
 
 > “Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.” — Louis Pasteur
+
