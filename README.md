@@ -68,7 +68,7 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
   - _"Vision Transformer Feature Harmonization Network for High-Resolution Land Cover Mapping"_  
     Published in **International Journal of Remote Sensing**  
   - _"Deep Hybrid Vision Architectures for Multiscale Land Cover Analysis"_  
-    **Under review** at **International Journal of Earth Observation and Remote Sensing**
+    **Published** at **International Journal of Earth Observation and Remote Sensing**
 
 ---
 
