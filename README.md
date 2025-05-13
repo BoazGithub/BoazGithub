@@ -26,6 +26,9 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 ## 🔭 Current Projects
 
+- 🌋 **Volcano Community Resilience Project (VCRP)**  
+   *Supporting the Rwanda Environmental Management Authority (REMA) through CHARIS UAS in a flagship project that combines drone imagery, machine learning, and geospatial analysis to enhance volcanic hazard preparedness, environmental protection, and community resilience.*
+
 - 🌍 **Exploring ML Models for Multispectral and SAR Data Fusion**  
    *Focused on ecosystem monitoring by integrating multispectral and SAR data for accurate environmental insights.*
 
@@ -34,6 +37,38 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 - 🌊 **Geospatial AI for Flood and Stormwater Management**  
    *Optimizing flood prediction and stormwater systems using geospatial data and AI to build climate-resilient urban infrastructure.*
+
+---
+
+## 💼 Professional Experience
+
+- **GeoAI Research Engineer**, CHARIS UAS  
+  *Jan 2025 – Present | Kigali, Rwanda*  
+  Developing large-scale machine learning models on drone and airborne datasets for applications such as:  
+  - High-resolution land cover mapping  
+  - Agriculture optimization (e.g., single-tree 🌳 extraction)  
+  - Environmental and community resilience modeling  
+  - VCRP: Volcano Community Resilience Project under REMA (Rwanda Environmental Management Authority)  
+
+- **Land Use Compliance & Inspection Specialist**, National Land Authority  
+  *Apr 2025 – Present | Kigali, Rwanda*  
+  Designing intelligent systems for land use monitoring, ensuring optimized resource allocation and national investment planning through AI and computer vision pipelines.
+
+---
+
+## 📢 Good News
+
+- 🎤 **Presenter at GLOBAL AI SUMMIT ON AFRICA**  
+  I proudly represented CHARIS UAS as the lead presenter at the **Global AI Summit on Africa** in Kigali, Rwanda. I demonstrated our work to international delegates on:  
+  - AI-based **Malaria risk prediction systems** (with the Ministry of Health)  
+  - **Crop phenological counting models**  
+  - High-resolution environmental intelligence—all supported by the **National Institute of Statistics of Rwanda (NISR)**
+
+- 📄 **Recent Publications**  
+  - _"Vision Transformer Feature Harmonization Network for High-Resolution Land Cover Mapping"_  
+    Published in **International Journal of Remote Sensing**  
+  - _"Deep Hybrid Vision Architectures for Multiscale Land Cover Analysis"_  
+    **Under review** at **International Journal of Earth Observation and Remote Sensing**
 
 ---
 
@@ -64,4 +99,3 @@ I'm always learning new ways to use AI in geospatial research and love pushing t
 ---
 
 > “Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.” — Louis Pasteur
-
