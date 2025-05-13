@@ -6,7 +6,7 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 ### 🌍 Areas of Research and Interest(Specialized Skills)
 - 🗺️ **Agriculture optimization from multimodalities**  
-  ![Development of Agriculture management systems with Machine learning](https://img.shields.io/badge/Land%20Cover%20Mapping-FF5722?style=for-the-badge&logo=map&logoColor=white)  
+  ![Development of Agriculture management systems with Machine learning](https://img.shields.io/badge/ Agriculture%20Management%20practive-with-machine-learning-from-laboratory-to-remote-sensing-intelligence-FF5722?style=for-the-badge&logo=map&logoColor=white)  
   *Applying deep learning and computer vision techniques for detailed crop practice management frequent importance from environment, landscape to climate or local weather influences.*
 
 
