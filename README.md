@@ -81,6 +81,7 @@ https://ieeexplore.ieee.org/document/11124258
 
 **Vision Transformer Feature Harmonization Network for High-Resolution Land-Cover Mapping**  
 International Journal of Remote Sensing  
+https://doi.org/10.1080/01431161.2025.2491816
 
 **Deep Hybrid Vision Architectures for Multiscale Land-Cover Analysis**  
 International Journal of Applied Earth Observation and Geoinformation  
