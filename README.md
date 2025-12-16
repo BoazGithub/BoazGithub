@@ -33,11 +33,7 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
    *Focused on ecosystem monitoring by integrating multispectral and SAR data for accurate environmental insights.*
 
 - 🛰️ **Weak Supervision Learning for High-Resolution Land Cover Mapping**  
-   *Developing robust weak supervision techniques to enhance classification accuracy on high-res satellite imagery.*
-
-- 🌊 **Geospatial AI for Flood and Stormwater Management**  
-   *Optimizing flood prediction and stormwater systems using geospatial data and AI to build climate-resilient urban infrastructure.*
-
+   *Developing robust weak supervision techniques to enhance classification accuracy on high-resolution satellite imagery.*
 ---
 
 ## 💼 Professional Experience
@@ -66,7 +62,7 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
 
 - 📄 **Recent Publications**  
   - _"C2FNet: Cross-Probabilistic Weak Supervision Learning for High-Resolution Land Cover Enhancement"_  
-    Published in **IEE Transactions on Geoscience and Remote Sensing** at ([link]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JvSqzysAAAAJ&citation_for_view=JvSqzysAAAAJ:9yKSN-GCB0IC](https://ieeexplore.ieee.org/document/11124258)])
+    Published in **IEE Transactions on Geoscience and Remote Sensing** at ([link]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JvSqzysAAAAJ&citation_for_view=JvSqzysAAAAJ:9yKSN-GCB0IC](https://ieeexplore.ieee.org/document/11124258])
   - _"Vision Transformer Feature Harmonization Network for High-Resolution Land Cover Mapping"_  
     Published in **International Journal of Remote Sensing**  
   - _"Deep Hybrid Vision Architectures for Multiscale Land Cover Analysis"_  
