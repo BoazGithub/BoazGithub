@@ -65,6 +65,8 @@ I'm **Boaz** – an AI researcher passionate about applying **Machine Learning**
   - High-resolution environmental intelligence—all supported by the **National Institute of Statistics of Rwanda (NISR)**
 
 - 📄 **Recent Publications**  
+  - _"C2FNet: Cross-Probabilistic Weak Supervision Learning for High-Resolution Land Cover Enhancement"_  
+    Published in **IEE Transactions on Geoscience and Remote Sensing** at ([link]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JvSqzysAAAAJ&citation_for_view=JvSqzysAAAAJ:9yKSN-GCB0IC](https://ieeexplore.ieee.org/document/11124258)])
   - _"Vision Transformer Feature Harmonization Network for High-Resolution Land Cover Mapping"_  
     Published in **International Journal of Remote Sensing**  
   - _"Deep Hybrid Vision Architectures for Multiscale Land Cover Analysis"_  
